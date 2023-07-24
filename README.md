@@ -34,8 +34,8 @@ the account balance is morethan or equal to the amount that should be burned.
  The condition used for it : if (balances[_address]>= _value)
 
  ## Authors
- Kritika Uniyal
- Student-Chandigarh University
+ Kritika Uniyal,
+ Student-Chandigarh University.
  
  ## License
  My project is licensed under the MIT License-see the LICENSE.md file for details
